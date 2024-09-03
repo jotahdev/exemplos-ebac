@@ -1,2 +1,2 @@
 # exemplos-ebac
-exemplos de projetos para o curso da ebaca
+exemplos de projetos para o curso da ebac.
